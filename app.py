@@ -1,3 +1,6 @@
+# AI Student Tutor
+# Name: Emaan Noor
+# Roll No: 2k24/AI/21
 import gradio as gr
 import os
 from groq import Groq
